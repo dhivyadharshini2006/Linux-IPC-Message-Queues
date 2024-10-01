@@ -82,6 +82,7 @@ int main()
 	msgctl(msgid, IPC_RMID, NULL);
 	return 0;
 }
+
 ```
 
 
